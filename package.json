@@ -1,0 +1,11 @@
+{
+  "name": "RapBot",
+  "version": "0.0.1",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jsonfile": "^4.0.0",
+    "mongodb": "^3.1.1",
+    "node-genius": "^1.1.0",
+    "request": "^2.87.0"
+  }
+}
